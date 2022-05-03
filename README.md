@@ -20,6 +20,12 @@ This repository includes schema for generating tables for hospital database.that
 - Twitter: [@ahangarha](https://twitter.com/ahangarha)
 - LinkedIn: [Ahangarha](https://linkedin.com/in/ahangarha)
 
+👤 **Bonke Gcobo**
+
+- GitHub: [@ahangarha](https://github.com/bonkegcobo)
+- Twitter: [@ahangarha](https://twitter.com/bonkegcobo)
+- LinkedIn: [Ahangarha](https://linkedin.com/in/bonkegcobo)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
