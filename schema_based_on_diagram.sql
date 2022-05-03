@@ -37,3 +37,7 @@ CREATE TABLE treatments(
   name VARCHAR(250),
   PRIMARY KEY (id)
 );
+ALTER TABLE
+  invoice_items
+ADD
+  FOREIGN KEY (treatment_id) REFERENCES treatments(id);
